@@ -11,8 +11,8 @@
 | `<base>` | Definieert een basis URL voor alle links op de pagina |
 | `<bdo>` | Definieert de richting van de tekst weergave |
 | `<big>` | Definieert een grootte tekst |
-| `<blockquote>` ¬ Definieert een lange quote |
-| '<caption>' | Definieert een witruimte met tekst boven de tabel |
+| `<blockquote>` | Definieert een lange quote |
+| `<caption>` | Definieert een witruimte met tekst boven de tabel |
 | `<cite>` | Definieert een citaat |
 | `<code>` | Definieert een computer-code tekst |
 | `<dd>` | Definieert een definitie omschrijving |
