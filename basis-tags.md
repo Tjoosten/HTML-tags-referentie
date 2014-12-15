@@ -3,82 +3,82 @@ HTML tags referentie
 
 ### Basis tags
 
-**`<!-- ... -->`**
+`<!-- ... -->`
 
 Definieer een commantaar
 
-**`<!DOCTYPE>`**
+`<!DOCTYPE>`
 
 Omschrijving van een documenttype
 
-**`<a>`**
+`<a>`
 
 Defineert een hyperlink
 
-**`<body>`**
+`<body>`
 
 Definieert het body element
 
-**`<frame>`**
+`<frame>`
 
 Definieert een frame
 
-**`<frameset>`**
+`<frameset>`
 
 Definieert een set van frames
 
-**`<html>`**
+`<html>`
 
 Definieert een html document
 
-**`<div>`**
+`<div>`
 
 Definieert een sectie in een document
 
-**`<span>`**
+`<span>`
 
 Definieert een gedeelte binnen een document
 
-**`<head>`**
+`<head>`
 
 Definieert informatie over het document
 
-**`<hr>`**
+`<hr>`
 
 Definieert een horizontale balk
 
-**`<iframe>`**
+`<iframe>`
 
 Definieert een inline frame
 
-**`<link>`**
+`<link>`
 
 Definieert een bronreferentie
 
-**`<meta>`**
+`<meta>`
 
 Definieert meta informatie
 
-**`<noframes>`**
+`<noframes>`
 
 Definieert een gedeelte zonder frames
 
-**`<noscript>`**
+`<noscript>`
 
 Definieert een gedeelte zonder scripts
 
-**`<object>`**
+`<object>`
 
 Definieert een ingevoegd object
 
-**`<script`>**
+`<script>`
 
 Definieert een script
 
-**`<style>`**
+`<style>`
 
 Definieert een stijl-definitie
 
-**`<title>`**
+`<title>`
 
 Definieert de titel van het document

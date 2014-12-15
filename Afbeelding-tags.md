@@ -5,6 +5,6 @@ HTML basis tags referentie
 
 | Tag                  | Beschrijving                              |
 | -------------------  | ----------------------------------------  |
-| **`<img>`** | Definieert een afbeelding |
-| **`<area>`** | Definieert een gebied binnen een imagemap |
-| **`<map>`** | Definieert een afbeelding map |
+| `<img>` | Definieert een afbeelding |
+| `<area>` | Definieert een gebied binnen een imagemap |
+| `<map>` | Definieert een afbeelding map |
