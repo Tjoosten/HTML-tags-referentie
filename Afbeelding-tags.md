@@ -1,4 +1,4 @@
-TML basis tags referentie
+HTML basis tags referentie
 ==========================
 
 ### Afbeelding tags
