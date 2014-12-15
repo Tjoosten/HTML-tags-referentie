@@ -1,4 +1,4 @@
-ML basis tags referentie
+HTML basis tags referentie
 ==========================
 
 ### Formulier tags
