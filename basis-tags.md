@@ -3,7 +3,8 @@ HTML tags referentie
 
 ### Basis tags
 
-**`<!-- ... -->`***
+**`<!-- ... -->`**
+
 Definieer een commantaar
 
 **`<!DOCTYPE>`**
