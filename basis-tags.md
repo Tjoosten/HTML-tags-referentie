@@ -3,7 +3,7 @@ HTML tags referentie
 
 ### Basis tags
 
-`<!-- ... -->`
+[`<!-- ... -->`](/info-tags/comment-tag.md)
 
 Definieer een commantaar
 
