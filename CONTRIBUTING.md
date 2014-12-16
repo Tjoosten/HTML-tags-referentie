@@ -15,5 +15,6 @@ Bij het ontwikkelen van deze documentatie bron gebruiken we enkele Tags in de Is
 - `Tyhpo`: Voor fouten in de spelling van de dpcumentatie.
 - `Bevestigd`: Voor fouten die zijn bevestigd.
 - `Uitbreiding`: Deze tag dient voor alle mogelijke uitbreidings idéén.
+- `Shiplist`: Deze tag word gebruikt om changelogs aan te duiden. **Gelieve deze niet te gebruiken voor fouten of uitbreidingen**
 
 Voor een compleet overzicht van alle Tags, bekijk de [Project tags pagina](https://github.com/Tjoosten/HTML-tags-referentie/labels).
