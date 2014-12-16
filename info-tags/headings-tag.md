@@ -3,8 +3,8 @@
 
 ### Algemene info:
 
-`<h1>` word gebruikt om de belangrijkste hoofding weer te geven.
-`<h6>` word gebruikt om de minst belangrijke hoofding weer te geven.
+1. `<h1>` word gebruikt om de belangrijkste hoofding weer te geven.
+2. `<h6>` word gebruikt om de minst belangrijke hoofding weer te geven.
 
 ### Voorbeeld:
 
