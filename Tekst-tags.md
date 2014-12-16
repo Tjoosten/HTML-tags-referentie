@@ -7,7 +7,7 @@ HTML basis tags referentie
 | -------------------  | ----------------------------------------  |
 | `<b>` | Definieert een vet gedrukte tekst |
 | `<br>` | Plaatst een enkele linebreak |
-| `<h1>` tot `<h6>` | Definieert een kop 1 tot kop 6 |
+| [`<h1>` tot `<h6>`](/info-tags/headings-tag.md) | Definieert een kop 1 tot kop 6 |
 | `<i>` | Definieert een cursieve tekst |
 | `<p>` | Definieert een paragraaf |
 | `<li>` | Definieert een lijst item |
