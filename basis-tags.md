@@ -7,7 +7,7 @@ HTML tags referentie
 | -------------------------------------------- | ----------------------------------------------------- |
 | [`<!-- ... -->`](/info-tags/comment-tag.md)  | Definieer een commentaar                              |
 | `<!DOCTYPE>` | Omschrijving van een documenttype |
-| `<a>` | Definieert een hyperlink |
+| [`<a>`](/info-tags/hyperlink.md)             | Definieert een hyperlink |
 | `<body>` | Definieert het body element |
 | `<frame>` | Definieert een frame |
 | `<frameset>` | Definieert een set van frames |
